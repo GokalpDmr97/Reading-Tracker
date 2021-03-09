@@ -6,7 +6,7 @@ Used Libraries:
 
 For Tkinter.ttk theme, breeze-dark theme whose author is Bartek Jasicki is used. The theme's github link: https://github.com/thindil/tkBreeze
 
-In this project, a program that allows the user to store information about books and shows statistics of given informations is built. 
+In this project, a program that allows the user to store information about books and shows statistics of the given information is built.
 
 This program was built mainly with Tkinter which is a graphical user interface library and the SQLite3 library which is a library to interact with SQLite database. You have 3 entries where can eter a new book record and also 1 dropdown menu to choose genre of the book. By clicking view all button, you are able to see all the books that have been added to the program. Every record is stored in a table inside the book.db database. You are able to search, update and delete entries also. 
 
