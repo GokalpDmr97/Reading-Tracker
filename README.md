@@ -1,4 +1,4 @@
-# Book Tracker GUI
+# Reading Tracker GUI
 
 Used Libraries: 
 * Tkinter - It's used to create GUI.
